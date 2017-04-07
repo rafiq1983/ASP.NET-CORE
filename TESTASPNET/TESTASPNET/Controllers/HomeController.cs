@@ -15,7 +15,7 @@ namespace TESTASPNET.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Welcome to RafiqAhmed.US";
 
             return View();
         }
